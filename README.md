@@ -10,4 +10,4 @@
 5. https://opentutorials.org/course/1223 //JAVA -1
 6. https://url.kr/fhxep1                 //Java -2
 
-7. https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q/videos // 🙀
+7. https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q/videos // Kick Start Go su 🙀

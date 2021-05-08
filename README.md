@@ -11,6 +11,7 @@
 7. https://opentutorials.org/course/1223 //JAVA -1
 8. https://url.kr/fhxep1                 //Java -2
 
-9. https://youtu.be/kWiCuklohdY //Python -1 
+9. https://youtu.be/kWiCuklohdY //Python -1
+10. https://dojang.io/mod/page/view.php?id=2254 //Python -2
 
-9. https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q/videos // Kick Start Go su 🙀
+11. https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q/videos // Kick Start Go su 🙀

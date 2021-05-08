@@ -15,3 +15,4 @@
 10. https://dojang.io/mod/page/view.php?id=2254 //Python -2
 
 11. https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q/videos // Kick Start Go su 🙀
+12. https://torotoblog.tistory.com/1?category=840299 // Make Tistory Blog

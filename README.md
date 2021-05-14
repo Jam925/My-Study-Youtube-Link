@@ -17,3 +17,4 @@
 11. https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q/videos // Kick Start Go su 🙀
 12. https://torotoblog.tistory.com/1?category=840299 // Make Tistory Blog
 13. https://youtu.be/_Y4i8elL-hs // Comment Defense Against Terrorism.
+14. https://tech.kakao.com/2020/07/01/2020-internship-test/ // 
